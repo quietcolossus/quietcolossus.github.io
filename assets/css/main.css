@@ -738,13 +738,13 @@ section,
   padding: 30px;
 }
 
-.about .skills-content h5 {
+.resume .skills-content h5 {
   font-size: 18px;
   font-weight: 700;
   margin: 30px 0 15px 0;
 }
 
-.about .progress {
+.resume .progress {
   height: 36px;
   display: block;
   background: none;
@@ -752,7 +752,7 @@ section,
   margin-top: 15px;
 }
 
-.about .progress .skill {
+.resume .progress .skill {
   color: var(--default-color);
   padding: 0;
   margin: 0 0 6px 0;
@@ -762,17 +762,17 @@ section,
   font-family: var(--heading-font);
 }
 
-.about .progress .skill .val {
+.resume .progress .skill .val {
   float: right;
   font-style: normal;
 }
 
-.about .progress-bar-wrap {
+.resume .progress-bar-wrap {
   background: color-mix(in srgb, var(--default-color), transparent 90%);
   height: 10px;
 }
 
-.about .progress-bar {
+.resume .progress-bar {
   width: 1px;
   height: 10px;
   transition: 0.9s;
