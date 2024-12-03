@@ -1020,7 +1020,7 @@ section,
   right: 30px;
   bottom: 0;
   z-index: 3;
-  transition: all ease-in-out 0.3s;
+  /* transition: all ease-in-out 0.3s; */
   background: color-mix(in srgb, var(--background-color), transparent 10%);
   padding: 15px;
 }
